@@ -1,7 +1,7 @@
-id = "ramprasathmk-theme"
-name = "RamprasathMK Theme"
+id = "sobekneferu-zed-glory-theme"
+name = "Sobekneferu Zed Glory"
 version = "0.0.1"
 schema_version = 1
-authors = ["RamprasathMK"]
-description = "Super Duper Awesome Ramprasath Night Theme"
+authors = ["ramprasathmk <mkramprasath12@gmail.com>"]
+description = "A customized One Dark theme for Zed."
 repository = "https://github.com/ramprasathmk/Sobekneferu-Zed-Glory"

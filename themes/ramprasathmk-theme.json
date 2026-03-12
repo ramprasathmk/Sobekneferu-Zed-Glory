@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "RamprasathMK Theme",
+  "name": "Sobekneferu Zed Glory",
   "author": "RamprasathMK",
   "themes": [
     {
-      "name": "One Dark",
+      "name": "Sobekneferu Zed Glory",
       "appearance": "dark",
       "style": {
         "border": "#464b57ff",
